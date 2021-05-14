@@ -1,4 +1,4 @@
-# Smartstore Solution Template Dummy Code readme
+# Smartstore Solution Template Dummy Code readme...............
 
 This repository enables developers to work in a perfect development environment for developing plugins, tests or themes, inclusive every conceivable deployment scenario. 
 
